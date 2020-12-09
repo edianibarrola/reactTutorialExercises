@@ -13,7 +13,7 @@ const Alert = prop => {
 		</div>
 	);
 };
-Alert.PropTypes = {
+Alert.propTypes = {
 	text: PropTypes.string
 };
 
